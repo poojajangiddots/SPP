@@ -1,0 +1,8 @@
+D:\Working Projects\MVCTestApp\MVCTestApp.Tests\bin\Debug\MVCTestApp.Tests.dll.config
+D:\Working Projects\MVCTestApp\MVCTestApp.Tests\bin\Debug\MVCTestApp.Tests.dll
+D:\Working Projects\MVCTestApp\MVCTestApp.Tests\bin\Debug\MVCTestApp.Tests.pdb
+D:\Working Projects\MVCTestApp\MVCTestApp.Tests\bin\Debug\MVCTestApp.dll
+D:\Working Projects\MVCTestApp\MVCTestApp.Tests\bin\Debug\MVCTestApp.pdb
+D:\Working Projects\MVCTestApp\MVCTestApp.Tests\obj\Debug\ResolveAssemblyReference.cache
+D:\Working Projects\MVCTestApp\MVCTestApp.Tests\obj\Debug\MVCTestApp.Tests.dll
+D:\Working Projects\MVCTestApp\MVCTestApp.Tests\obj\Debug\MVCTestApp.Tests.pdb

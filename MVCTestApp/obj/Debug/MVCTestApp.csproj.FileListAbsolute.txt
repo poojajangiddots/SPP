@@ -1,0 +1,7 @@
+D:\Working Projects\MVCTestApp\MVCTestApp\bin\MVCTestApp.dll
+D:\Working Projects\MVCTestApp\MVCTestApp\bin\MVCTestApp.pdb
+D:\Working Projects\MVCTestApp\MVCTestApp\bin\EntityFramework.dll
+D:\Working Projects\MVCTestApp\MVCTestApp\bin\EntityFramework.xml
+D:\Working Projects\MVCTestApp\MVCTestApp\obj\Debug\ResolveAssemblyReference.cache
+D:\Working Projects\MVCTestApp\MVCTestApp\obj\Debug\MVCTestApp.dll
+D:\Working Projects\MVCTestApp\MVCTestApp\obj\Debug\MVCTestApp.pdb
