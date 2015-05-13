@@ -32,7 +32,7 @@ namespace MVCTestApp.Tests.Controllers
             HomeController controller = new HomeController();
 
             // Act
-            ViewResult result = controller.About() as ViewResult;
+            ViewResult result = controller.About() as ViewResult.toObject();
 
             // Assert
             Assert.IsNotNull(result);
